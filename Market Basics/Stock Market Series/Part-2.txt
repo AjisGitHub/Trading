@@ -1,0 +1,123 @@
+📈 *STOCK MARKET SERIES — PART 2*
+
+📊 *What Is a Stock / Share?*
+
+In Part 1, we learned what the stock market is.
+
+Now let's understand the most important thing that is actually bought and sold in the stock market:
+
+👉 *A share of a company.*
+
+A share represents a *small unit of ownership* in a company.
+
+When a company is divided into many units of ownership, each unit is called a share.
+
+For example:
+
+Imagine a company has *1,00,000 shares* in total.
+
+If you own *1,000 shares*, your ownership is:
+
+*1,000 ÷ 1,00,000 × 100 = 1%*
+
+So, you own *1% of the company*.
+
+📌 The percentage you own depends on the number of shares you hold compared with the company's total shares.
+
+
+🏢 *WHY DO COMPANIES ISSUE SHARES?*
+
+A company may need a large amount of capital to expand its business.
+
+Instead of raising all the money through loans, it can raise capital by *issuing shares to investors*.
+
+For example:
+
+🏭 A company wants ₹100 crore for expansion.
+
+It could raise money by issuing shares to investors.
+
+Investors provide capital. The company receives money for its business. Investors receive *ownership in the company*.
+
+This is one of the fundamental ways the stock market connects *businesses seeking capital* with *investors seeking investment opportunities*.
+
+
+📈 *WHAT HAPPENS AFTER YOU BUY A SHARE?*
+
+Once you purchase a share of a publicly traded company, you become a *shareholder*.
+
+Depending on the type of shares and applicable company rules, shareholders may have rights such as:
+
+💰 Receiving dividends when declared
+🗳️ Voting on certain company matters
+📄 Receiving shareholder information
+🏢 Participating in the company's ownership
+
+However, owning shares does not mean you personally own a specific office, factory, machine, or product of the company.
+
+You own a *financial interest in the company*.
+
+
+💰 *HOW DOES A SHARE HAVE VALUE?*
+
+A share has a market price because investors are willing to buy and sell it.
+
+Suppose a company's share is trading at: *₹200 per share*
+
+If you own 50 shares: 50 × ₹200 = *₹10,000*
+
+If the share price rises to ₹250: 50 × ₹250 = *₹12,500* → market value increased by ₹2,500.
+
+But if the price falls to ₹150: 50 × ₹150 = *₹7,500* → market value decreased by ₹2,500.
+
+📌 This is why *stock-market returns are not guaranteed*.
+
+
+🔄 *SHARES CAN BE TRADED*
+
+Once shares are listed on a stock exchange, investors can generally buy and sell them during market hours through their brokers.
+
+👤 Investor A owns shares 
+⬇️
+Investor A decides to sell ⬇️ 
+👤 Investor B wants to buy 
+⬇️ 
+Shares change hands through the stock market.
+
+This creates *liquidity*, allowing investors to convert shares into cash by selling them, subject to market conditions.
+
+
+🧮 *SHARES & OWNERSHIP*
+
+A company has: *10 lakh total shares*
+You own: *10,000 shares*
+Your ownership: 10,000 ÷ 10,00,000 × 100 = *1%*
+
+If the company later issues additional shares, the total number of shares can increase. This can reduce an existing shareholder's percentage. This is known as *dilution*.
+
+
+⚠️ *COMMON MISUNDERSTANDINGS*
+
+❌ A ₹50 stock is not automatically cheaper than a ₹500 stock.
+❌ Owning more shares doesn't automatically mean owning more of a company.
+❌ A company with a low share price isn't necessarily a small company.
+❌ A share price going up doesn't automatically mean the company has become fundamentally stronger.
+
+
+🔑 *KEY TAKEAWAYS*
+
+✅ A share represents a *unit of ownership* in a company.
+✅ Shareholders own a *financial interest* in the business.
+✅ Companies can issue shares to *raise capital*.
+✅ Investors can potentially benefit from *capital appreciation and dividends*.
+✅ Share prices fluctuate based on *market conditions and investor expectations*.
+✅ The number of shares you own must be considered *relative to total shares*.
+
+
+🧠 A share is more than a number displayed on a trading app.
+
+It represents *ownership in a business*.
+
+Understanding this basic concept is essential before learning how to evaluate whether a particular company's shares are worth investing in.
+
+*Double Tap ❤️ For Part-3*
