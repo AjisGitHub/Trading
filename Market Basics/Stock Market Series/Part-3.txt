@@ -1,0 +1,179 @@
+📈 *STOCK MARKET SERIES — PART 3*
+
+*🔄 How Does the Stock Market Work?*
+
+In the previous parts, we learned what the stock market is and what a share represents.
+
+Now let's understand how the entire system works—from a company raising money to investors buying and selling shares.
+
+*🏢 STEP 1: A COMPANY NEEDS CAPITAL*
+
+Companies need money to grow their businesses.
+
+They may need capital for:
+
+- 🏭 Expansion
+- 💻 New technology
+- 🌍 Entering new markets
+- 👥 Hiring employees
+- 📦 Increasing production
+- 💳 Repaying or restructuring debt
+
+One way to raise capital is by issuing shares to the public.
+
+*📢 STEP 2: THE COMPANY GOES PUBLIC*
+
+When a private company decides to offer its shares to the public for the first time, it can launch an IPO — Initial Public Offering.
+
+Investors can apply for shares during the IPO.
+
+If the shares are allotted, investors become shareholders of the company.
+
+After listing, those shares can generally be traded on a stock exchange.
+
+📌 We'll explore IPOs in detail in a later part.
+
+*🏦 STEP 3: THE STOCK IS LISTED ON AN EXCHANGE*
+
+After listing, the company's shares can be traded on a stock exchange.
+
+In India, the two major stock exchanges are:
+
+- 🇮🇳 NSE — National Stock Exchange
+- 🇮🇳 BSE — Bombay Stock Exchange
+
+The exchange provides the infrastructure for buyers and sellers to transact in listed securities.
+
+*📱 STEP 4: INVESTORS PLACE ORDERS*
+
+Suppose you want to buy 10 shares of a company.
+
+You use your trading platform to place an order.
+
+For example:
+
+Buy 10 shares at ₹500
+
+Another investor may be willing to sell shares at a price that matches your order.
+
+When compatible buy and sell orders are matched, the transaction takes place.
+
+*⚙️ STEP 5: BUYERS & SELLERS ARE MATCHED*
+
+The stock exchange's trading system matches compatible orders.
+
+There are generally two sides:
+
+- 🟢 Buyer — wants to purchase shares
+- 🔴 Seller — wants to sell shares
+
+When the conditions of their orders match, a trade is executed.
+
+This process happens electronically and can occur extremely quickly.
+
+*💰 STEP 6: MONEY & SHARES ARE SETTLED*
+
+After a trade is executed, the transaction goes through the settlement process.
+
+The buyer ultimately receives the shares in their Demat account.
+
+The seller receives the corresponding funds, after applicable charges and settlement procedures.
+
+📌 A trading account is used to place trades, while a Demat account holds securities electronically.
+
+We'll explore these accounts separately later.
+
+*📈 STEP 7: THE SHARE PRICE CHANGES*
+
+Once a stock is actively traded, its market price can change continuously during market hours.
+
+Suppose a stock is trading at:
+
+₹500
+
+If buying demand increases significantly, the price may move higher.
+
+If selling pressure increases, the price may move lower.
+
+But demand and supply are influenced by many factors:
+
+- 📊 Company earnings
+- 💰 Future growth expectations
+- 🏦 Interest rates
+- 🌍 Economic conditions
+- 📰 News
+- 🏭 Industry developments
+- 😨 Investor sentiment
+- 📈 Market expectations
+
+*🔄 PRIMARY MARKET vs SECONDARY MARKET*
+
+This is an important distinction.
+
+*🏢 PRIMARY MARKET*
+
+This is where securities are issued by a company to raise capital.
+
+Example:
+
+Company → New shares → Investors
+
+An IPO is a common example.
+
+*📈 SECONDARY MARKET*
+
+This is where investors trade existing shares among themselves.
+
+Example:
+
+Investor A → Shares → Investor B
+
+The company generally does not receive the money from these secondary-market trades.
+
+This distinction becomes very important when understanding how the stock market functions.
+
+*💡 A SIMPLE EXAMPLE*
+
+Imagine a company called ABC Ltd.
+
+It decides to raise capital by issuing shares.
+
+🏢 ABC Ltd.
+⬇️
+📢 Issues shares through an IPO
+⬇️
+👨‍💼 Investors buy shares
+⬇️
+🏦 Shares become listed on an exchange
+⬇️
+📱 Investors trade those shares
+⬇️
+📈 Market price changes based on buying and selling activity
+
+This is the basic journey of a publicly traded stock.
+
+*⚠️ COMMON MISUNDERSTANDINGS*
+
+- The stock exchange itself doesn't simply decide the price of every stock. Prices emerge from buying and selling activity in the market.
+- The company doesn't receive money every time its shares are traded. In the secondary market, shares are generally exchanged between investors.
+- A rising stock price doesn't automatically mean the company is receiving more cash. Market value and company cash flow are different concepts.
+- Buying a stock isn't the same as lending money to a company. A shareholder owns an equity interest, while a lender is a creditor.
+
+*🔑 KEY TAKEAWAYS*
+
+- ✅ Companies can raise capital by issuing shares.
+- ✅ IPOs allow companies to offer shares to the public.
+- ✅ Stock exchanges facilitate trading in listed securities.
+- ✅ Investors place buy and sell orders through brokers.
+- ✅ Compatible orders are matched and trades are executed.
+- ✅ Shares are held electronically in Demat accounts.
+- ✅ Primary markets involve issuance of securities.
+- ✅ Secondary markets involve trading between investors.
+
+*🧠 INVESTOR TAKEAWAY*
+
+The stock market is an interconnected system involving companies, investors, brokers, exchanges, clearing and settlement mechanisms, and regulators.
+
+Understanding this system gives you a strong foundation for everything we'll learn later.
+
+➡️ *Double Tap ❤️ For Part-4*
