@@ -1,0 +1,130 @@
+📈 *STOCK MARKET SERIES — PART 4*
+
+🇮🇳 *NSE vs BSE — What's the Difference?*
+
+In the previous part, we learned how the stock market works and the role of a stock exchange.
+
+Now let's understand two names every Indian investor encounters:
+
+- NSE and BSE
+
+🏦 *WHAT IS NSE?*
+
+NSE stands for National Stock Exchange of India.
+
+It was established in 1992 and began operations in the 1990s.
+
+NSE introduced electronic screen-based trading on a large scale in India and became one of the country's major stock exchanges.
+
+Its benchmark index is:
+
+📊 *NIFTY 50*
+
+NIFTY 50 tracks 50 major companies listed on the NSE, selected according to the index methodology.
+
+🏛️ *WHAT IS BSE?*
+
+BSE stands for BSE Ltd., historically known as the Bombay Stock Exchange.
+
+It was established in 1875 and is one of the world's oldest stock exchanges.
+
+Its best-known benchmark index is:
+
+📊 *SENSEX*
+
+The Sensex tracks 30 major companies selected according to BSE's index methodology.
+
+📊 *NSE vs BSE*
+
+*NSE:*
+- Full name: National Stock Exchange of India
+- Established: 1992
+- Major index: NIFTY 50
+- Major role: Electronic securities trading
+- Location: Mumbai
+
+*BSE:*
+- Full name: BSE Ltd.
+- Established: 1875
+- Major index: SENSEX
+- Major role: Electronic securities trading
+- Location: Mumbai
+
+📌 *Both are regulated Indian stock exchanges and provide platforms for trading securities.*
+
+🤔 *IS NSE BETTER THAN BSE?*
+
+Not necessarily.
+
+For an ordinary investor, the difference is often much less important than beginners assume.
+
+- Many companies are listed on both NSE and BSE.
+- If the same company's shares are available on both exchanges, the prices generally remain very close because market participants and arbitrage activity help keep significant price differences from lasting.
+
+The important thing is understanding the company and the investment, rather than choosing a stock simply because it trades on NSE or BSE.
+
+📈 *NIFTY 50 vs SENSEX*
+
+These are stock market indices, not individual stocks.
+
+*NIFTY 50*
+- Tracks 50 large companies based on the index's selection methodology.
+
+*SENSEX*
+- Tracks 30 major companies based on the index's selection methodology.
+
+Both are commonly used as indicators of the performance of major segments of the Indian equity market.
+
+📌 *Because their constituents and methodologies differ, their returns can differ over a particular period.*
+
+💡 *WHY DO WE NEED STOCK MARKET INDICES?*
+
+Imagine looking at hundreds or thousands of stocks individually to understand how the market is performing.
+
+That would be difficult.
+
+An index provides a simplified way to track a selected group of companies.
+
+For example:
+
+📈 *NIFTY 50 rises*
+- ➡️ It generally indicates that the constituent basket has increased in value, subject to the index's methodology.
+
+📉 *NIFTY 50 falls*
+- ➡️ It generally indicates that the constituent basket has decreased in value.
+
+The same basic idea applies to the Sensex.
+
+⚠️ *COMMON MISUNDERSTANDINGS*
+
+❌ *NIFTY 50 is not the same thing as NSE.*
+NSE is the stock exchange.
+NIFTY 50 is an index.
+
+❌ *SENSEX is not the same thing as BSE.*
+BSE is the stock exchange.
+SENSEX is an index.
+
+❌ *A company being listed on NSE doesn't automatically make it a better investment than one listed on BSE.*
+The exchange listing itself does not determine the quality of a business.
+
+❌ *A rising index doesn't mean every stock is rising.*
+An index represents a specific basket of securities, and individual stocks can move very differently.
+
+🔑 *KEY TAKEAWAYS*
+
+✅ NSE and BSE are major stock exchanges in India.
+✅ NSE's major benchmark is NIFTY 50.
+✅ BSE's major benchmark is SENSEX.
+✅ Many companies are listed on both exchanges.
+✅ An exchange is different from an index.
+✅ NIFTY 50 and SENSEX help investors track selected groups of major companies.
+✅ The exchange on which a stock is listed is only one small part of the investment decision.
+
+🧠 *INVESTOR TAKEAWAY*
+
+NSE and BSE are marketplaces. NIFTY 50 and SENSEX are indices.
+
+Keeping these concepts separate is one of the first steps toward understanding how the Indian stock market works.
+
+➡️ *Double Tap ❤️ For Part-5*
