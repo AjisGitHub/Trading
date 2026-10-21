@@ -1,0 +1,177 @@
+*📈 STOCK MARKET SERIES — PART 6*
+
+*🏢 Primary Market vs Secondary Market*
+
+In the previous part, we learned how NIFTY 50 and SENSEX work.
+
+Now let's understand two fundamental parts of the financial market:
+
+Primary Market and Secondary Market
+
+Knowing the difference is important because the flow of money and ownership is different in each.
+
+*🎯 WHAT IS THE PRIMARY MARKET?*
+
+The primary market is where securities are issued and sold for the first time to investors.
+
+Here, the company or other issuer raises capital directly from investors.
+
+A simple flow is:
+
+🏢 Company
+
+⬇️
+
+📄 Issues new shares
+
+⬇️
+
+👨‍💼 Investors
+
+⬇️
+
+💰 Money goes to the company
+
+- This is how businesses can raise fresh capital from the public.
+
+*📢 IPO — A PRIMARY MARKET EXAMPLE*
+
+An IPO (Initial Public Offering) is one of the best-known examples of the primary market.
+
+Suppose a private company wants to become publicly listed.
+
+It may offer shares to investors through an IPO.
+
+If investors receive an allotment:
+
+👨‍💼 Investor → 💰 Money → 🏢 Company
+
+In return:
+
+🏢 Company → 📊 Shares → 👨‍💼 Investor
+
+- The company receives the capital raised through the new issue, subject to the structure of the offering.
+
+*🔄 WHAT IS THE SECONDARY MARKET?*
+
+The secondary market is where investors buy and sell securities that have already been issued.
+
+The company is generally not receiving the money from these transactions.
+
+For example:
+
+👨‍💼 Investor A owns shares
+
+⬇️
+
+📈 Sells shares
+
+⬇️
+
+👨‍💼 Investor B buys shares
+
+- The money generally moves between the buyers and sellers, while ownership of the shares changes.
+- Stock exchanges such as NSE and BSE facilitate this trading in listed securities.
+
+*💡 A SIMPLE EXAMPLE*
+
+Imagine ABC Ltd. issues 1 lakh new shares through an IPO at ₹100 per share.
+
+If all 1 lakh shares are issued at ₹100:
+
+1,00,000 × ₹100 = ₹1 crore
+
+- The company can raise ₹1 crore through that new issue, before applicable expenses and depending on the offering structure.
+
+Now imagine you receive 100 shares.
+
+A few weeks later, you sell those 100 shares to another investor for ₹120 each.
+
+You receive:
+
+100 × ₹120 = ₹12,000
+
+- The ₹12,000 is paid by the buyer to you through the market's trading and settlement system.
+- It does not normally go back to ABC Ltd.
+- That's the fundamental difference.
+
+*📈 WHY IS THE SECONDARY MARKET IMPORTANT?*
+
+Imagine you invest ₹50,000 in a company's IPO but have no way to sell your shares later.
+
+Your investment would be much less flexible.
+
+The secondary market provides liquidity.
+
+It allows investors to potentially:
+
+💰 Sell their investments
+
+📈 Buy additional shares
+
+🔄 Transfer ownership through market transactions
+
+💵 Convert securities into cash, subject to market conditions
+
+- This liquidity is one of the major reasons public markets are attractive to investors and companies.
+
+*🏢 HOW DO BOTH MARKETS WORK TOGETHER?*
+
+The two markets are closely connected.
+
+*PRIMARY MARKET*
+
+Company raises capital.
+
+Company → Shares → Investors
+
+*SECONDARY MARKET*
+
+Investors trade those shares.
+
+Investor A → Shares → Investor B
+
+- The primary market helps companies raise capital.
+- The secondary market helps investors trade and obtain liquidity.
+- Both are essential parts of a functioning capital market.
+
+*⚠️ COMMON MISUNDERSTANDINGS*
+
+❌ Every stock-market purchase gives money to the company.
+
+- Not true. Most regular exchange trading happens in the secondary market.
+
+❌ IPO and stock-market trading are the same thing.
+
+- An IPO is a primary-market activity, while subsequent trading of listed shares generally occurs in the secondary market.
+
+❌ The company receives money whenever its share price rises.
+
+- A higher market price can increase the company's market capitalization, but it does not automatically mean cash has entered the company's bank account.
+
+❌ Primary market means only IPOs.
+
+- New issues can take different forms, including follow-on offerings and other securities issuances.
+
+*🔑 KEY TAKEAWAYS*
+
+✅ Primary market = new securities are issued.
+
+✅ Secondary market = existing securities are traded.
+
+✅ Companies raise fresh capital through primary-market issues.
+
+✅ Investors trade with one another in the secondary market.
+
+✅ IPOs are a major example of primary-market activity.
+
+✅ NSE and BSE provide platforms for secondary-market trading of listed securities.
+
+✅ Liquidity in the secondary market makes investing in publicly traded securities more practical.
+
+*🧠 INVESTOR TAKEAWAY*
+
+- The primary market creates new securities and raises capital, while the secondary market allows existing securities to be bought and sold.
+- Understanding this difference makes it much easier to understand IPOs, stock exchanges, share prices, and how money flows through the market.
+
+➡️ *Double Tap ❤️ For Part-7*
