@@ -1,0 +1,185 @@
+*📈 STOCK MARKET SERIES — PART 5*
+
+*📊 NIFTY 50 & SENSEX — How Do Stock Market Indices Work?*
+
+In the previous part, we learned the difference between NSE, BSE, NIFTY 50, and SENSEX.
+
+Now let's understand what a stock market index actually does.
+
+*🎯 WHAT IS A STOCK MARKET INDEX?*
+
+A stock market index is a basket of selected stocks designed to represent a particular segment of the market.
+
+Instead of looking at hundreds of stocks individually, an index gives investors a way to track the overall movement of a selected group.
+
+For example:
+
+📊 NIFTY 50 → 50 companies
+📊 SENSEX → 30 companies
+
+The companies included in an index are selected according to specific rules and criteria.
+
+*📈 WHY ARE INDICES IMPORTANT?*
+
+Indices are useful for several reasons:
+
+🔹 Measuring market performance
+They provide a quick indication of how a selected group of stocks is performing.
+
+🔹 Comparing investment performance
+An investor can compare their portfolio's performance with an appropriate benchmark.
+
+🔹 Creating index funds and ETFs
+Investment products can be designed to track an index.
+
+🔹 Understanding market sentiment
+Major index movements can provide a broad picture of market conditions.
+
+*🧮 HOW IS AN INDEX CALCULATED?*
+
+This is where an important concept comes in:
+
+*FREE-FLOAT MARKET CAPITALIZATION*
+
+Major Indian indices such as NIFTY 50 and SENSEX use methodologies based on free-float market capitalization.
+
+Let's break that down.
+
+*🏢 MARKET CAPITALIZATION*
+
+Market capitalization is:
+
+Share Price × Total Outstanding Shares
+
+For example:
+
+Share price = ₹100
+Outstanding shares = 10 crore
+Market capitalization:
+₹100 × 10 crore = ₹1,000 crore
+
+*🔓 WHAT IS FREE FLOAT?*
+
+Not every share available in a company's total share capital is necessarily available for regular public trading.
+
+Some shares may be held by promoters, controlling shareholders, governments, or other categories that are not considered part of the freely tradable public float under the index methodology.
+
+Free-float market capitalization focuses on the portion considered readily available for public trading.
+
+This means companies with greater free-float market capitalization generally have a larger influence on the index.
+
+*💡 A SIMPLE EXAMPLE*
+
+Imagine an index contains just three fictional companies:
+
+🏢 Company A
+Free-float market cap = ₹1,000 crore
+
+🏢 Company B
+Free-float market cap = ₹500 crore
+
+🏢 Company C
+Free-float market cap = ₹100 crore
+
+Company A has a much larger representation than Company C.
+
+So if Company A moves significantly, it can have a greater impact on the index than Company C.
+
+📌 This is why an index is not simply an average of the share prices of its companies.
+
+
+*📈 WHY CAN THE INDEX RISE WHEN SOME STOCKS FALL?*
+
+Suppose an index contains 50 stocks.
+
+On a particular day:
+
+🟢 30 stocks rise
+🔴 20 stocks fall
+
+The index may still rise.
+
+But even if fewer stocks rise, the index can potentially increase if the larger-weighted companies gain enough to offset declines elsewhere.
+
+This is known as the effect of index weighting.
+
+
+*⚖️ NOT EVERY STOCK HAS EQUAL WEIGHT*
+
+This is one of the most important things to understand.
+
+Imagine:
+
+Company A → 10% index weight
+Company B → 2% index weight
+
+A 10% move in Company A can have a much larger effect on the index than a 10% move in Company B.
+
+So when you hear:
+
+“The index rose 1% today”
+
+it does not mean every company in that index rose 1%.
+
+The actual movement depends on the performance and weights of the constituent stocks.
+
+*🔄 INDEX COMPOSITION CAN CHANGE*
+
+An index is not permanently fixed.
+
+Companies can be:
+
+➕ Added
+➖ Removed
+
+based on the index provider's eligibility criteria, periodic reviews, and methodology.
+
+This allows the index to continue representing its intended market segment.
+
+*📊 NIFTY 50 vs SENSEX*
+
+*NIFTY 50*
+🇮🇳 NSE's flagship index
+📌 Tracks 50 companies
+📌 Uses free-float market capitalization methodology
+
+*SENSEX*
+🇮🇳 BSE's flagship index
+📌 Tracks 30 companies
+📌 Uses a free-float market capitalization methodology
+
+Both are important market benchmarks, but they represent different baskets of companies.
+
+*⚠️ COMMON MISUNDERSTANDINGS*
+
+❌ An index is not a single stock.
+It represents a basket of stocks.
+
+❌ An index rising doesn't mean every stock is rising.
+Individual stocks can move in different directions.
+
+❌ Index movement isn't calculated by simply averaging stock prices.
+Weighting matters.
+
+❌ NIFTY 50 and SENSEX don't represent the entire Indian stock market.
+They represent selected groups of companies according to their respective methodologies.
+
+*🔑 KEY TAKEAWAYS*
+
+✅ An index tracks a selected basket of stocks.
+✅ NIFTY 50 contains 50 companies.
+✅ SENSEX contains 30 companies.
+✅ Both use free-float market capitalization-based methodologies.
+✅ Larger-weighted companies have greater influence on index movements.
+✅ Index composition can change over time.
+✅ An index is useful as a market benchmark.
+
+*🧠 INVESTOR TAKEAWAY*
+
+An index is more than a number moving up and down on financial news.
+
+It is a weighted representation of a selected group of companies.
+
+Understanding how indices work will make it much easier to understand index funds, ETFs, market returns, and portfolio performance later in this series.
+
+*➡️ Double Tap ❤️ For Part-5*
